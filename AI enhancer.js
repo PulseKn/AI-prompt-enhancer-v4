@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         ✦ AI Prompt Enhancer
-// @namespace    https://github.com/ai-prompt-enhancer
+// @namespace    https://github.com/PulseKn
 // @version      4.0.0
 // @description  Supercharge prompts on all major AI chat platforms — desktop & mobile adaptive
 // @author       AI Prompt Enhancer
