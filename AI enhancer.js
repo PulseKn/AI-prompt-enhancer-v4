@@ -53,6 +53,7 @@
 // @grant        GM_getValue
 // @grant        GM_addStyle
 // @run-at       document-idle
+//@update        https://github.com/PulseKn/AI-prompt-enhancer-v4/blob/main/AI%20enhancer.js
 // ==/UserScript==
 
 (function () {
